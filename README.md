@@ -1,4 +1,44 @@
-### Hi there 👋
+# Hey 👋, I'm [Ruimin Tan](https://github.com/ruimintan)！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruimintan" alt="raghav-byte" /> </p>
+
+I am a front-end development engineer with more than four years of working experience 👨‍💻. Passion for learning and love to explore new technologies🚀.
+
+- 🔭 I’m currently working on Vue, Nodejs, React, ES6, Sass
+- 🌱 I’m currently learning about React, Data Structures and Algorithms
+- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
+- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruimintan@163.com)](mailto:ruimintan@163.com)
+- 💬 Ask me about anything! I am happy to help and guide you.
+- ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣.
+
+
+### 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-eed718?style=flat-square&logo=javascript&logoColor=ffffff)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<a href="https://github.com/ruimintan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruimintan&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruimintan&layout=compact" />
+</a>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p>
+<a href="https://ruimintan.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-ruimintan.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="mailto:ruimintan@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-ruimintan@163.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 <!--
 **ruimintan/ruimintan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
