@@ -36,8 +36,10 @@ I am a front-end development engineer with more than four years of working exper
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://ruimintan.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-ruimintan.github.io-blue?style=flat-square&logo=google-chrome"></a>
-<a href="mailto:ruimintan@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-ruimintan@163.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://ruimintan.github.io/"><img src="https://img.shields.io/badge/-ruimintan.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:ruimintan@163.com"><img src="https://img.shields.io/badge/-ruimintan@163.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<!-- <a href="https://ruimintan.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-ruimintan.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="mailto:ruimintan@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-ruimintan@163.com-blue?style=flat-square&logo=gmail"></a> -->
 </p>
 
 <!--
