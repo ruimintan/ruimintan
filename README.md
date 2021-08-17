@@ -6,7 +6,7 @@ I am a front-end development engineer with more than four years of working exper
 
 - 🔭 I’m currently working on Vue, Nodejs, React, ES6, Sass
 - 🌱 I’m currently learning about React, Data Structures and Algorithms
-- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
+- :books: I want to learn more about <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruimintan@163.com)](mailto:ruimintan@163.com)
 - 💬 Ask me about anything! I am happy to help and guide you.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣.
@@ -36,10 +36,10 @@ I am a front-end development engineer with more than four years of working exper
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://ruimintan.github.io/"><img src="https://img.shields.io/badge/-ruimintan.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:ruimintan@163.com"><img src="https://img.shields.io/badge/-ruimintan@163.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<!-- <a href="https://ruimintan.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-ruimintan.github.io-blue?style=flat-square&logo=google-chrome"></a>
-<a href="mailto:ruimintan@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-ruimintan@163.com-blue?style=flat-square&logo=gmail"></a> -->
+<!-- <a href="https://ruimintan.github.io/"><img src="https://img.shields.io/badge/-ruimintan.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:ruimintan@163.com"><img src="https://img.shields.io/badge/-ruimintan@163.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> -->
+<a href="https://ruimintan.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-ruimintan.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="mailto:ruimintan@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-ruimintan@163.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <!--
