@@ -6,8 +6,8 @@ I am a front-end development engineer with more than four years of working exper
 
 - 🔭 I’m currently working on Vue, Nodejs, React, ES6, Sass.
 - 🌱 I’m currently learning about Data Structures and Algorithms.
-- :books: I want to learn more about <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
-- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruimintan@163.com)](mailto:ruimintan@163.com)
+- :books: I want to learn more about <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">.
+- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruimintan@163.com)](mailto:ruimintan@163.com).
 - 💬 Ask me about anything! I am happy to help and guide you.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣.
 
