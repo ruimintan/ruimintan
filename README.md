@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruimintan" alt="raghav-byte" /> </p>
 
-I am a front-end development engineer with more than four years of working experience 👨‍💻. Passion for learning and love to explore new technologies🚀.
+I’m a front-end development engineer working in Shanghai👨‍💻. Passion for learning and love to explore new technologies🚀.
 
 - 🔭 I’m currently working on React, Vue, Nodejs, Serverless.
 - 🌱 I’m currently learning about Serverless and MySQL.
-- :books: I want to learn more about <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
+- :books: I’d like to learn more about software engineering.
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruimintan@163.com)](mailto:ruimintan@163.com)
 - 💬 Ask me about anything! I am happy to help and guide you.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣.
