@@ -4,8 +4,8 @@
 
 I’m a front-end development engineer working in Shanghai👨‍💻. Passion for learning and love to explore new technologies🚀.
 
-- 🔭 I’m currently working on React, Vue, Nodejs, Serverless.
-- 🌱 I’m currently learning about Serverless and MySQL.
+- 🔭 I’m currently working on React, Vue, Nodejs.
+- 🌱 I’m currently learning about Serverless.
 - :books: I’d like to learn more about software engineering.
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruimintan@163.com)](mailto:ruimintan@163.com)
 - 💬 Ask me about anything! I am happy to help and guide you.
