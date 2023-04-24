@@ -32,8 +32,8 @@ I’m a front-end development engineer working in Shanghai👨‍💻. Passion f
 ### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/ruimintan">
-  <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=ruimintan&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=ruimintan&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ruimintan&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ruimintan&layout=compact" />
 </a>
 
 ### 🤝🏻 &nbsp;Connect with Me
